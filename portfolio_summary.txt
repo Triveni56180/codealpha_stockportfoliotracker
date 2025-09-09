@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+AAPL - 5 shares @ $180 = $900
+TSLA - 3 shares @ $250 = $750
+MSFT - 5 shares @ $300 = $1500
+AMZN - 7 shares @ $140 = $980
+
+Total Investment Value: $4130
